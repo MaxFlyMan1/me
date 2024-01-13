@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Silly Goober Town</title>
+    </head>
+    <body>
+        <div id="window">
+            <br>
+            <p1>
+                <center>
+                    Welcome To My Site
+                </center>
+            </p1>
+            <img src="kittywave.gif" id="kittywave">
+            <p2>
+                <center>
+                    I'm just a little fella who like video games, art, coding (as you can tell from this tacky ass site) and gay people! I am pansexual, genderfluid and taken! Oh yeah, and if it wasn't obvious already...
+                </center>
+            </p2>
+            <br>
+            <div id="autistic">
+                <center>
+                    AUTISTIC
+                </center>
+            </div>
+            <br>
+            <br>
+            <p3>
+                <center>
+                    To reach me, just look up "MaxFlyMan" and you WILL find me. Don't believe me?
+                </center>
+            </p3>
+            <br>
+            <div id="buttons">
+                <button id="button" onclick="yt()">Youtube</button>
+                <button id="button" onclick="tt()">TikTok</button>
+                <button id="button" onclick="disc()">Discord</button>
+                <button id="button" onclick="twch()">Twitch</button>
+                <button id="button" onclick="twit()">Twitter</button>
+                <button id="button" onclick="redd()">Reddit</button>
+                <button id="button" onclick="spot()">Spotify</button>
+                <button id="button" onclick="cash()">Cashapp</button>
+            </div>
+        </div>
+    </body>
+    <link rel="stylesheet" href="index.css">
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="sparkle.js"></script>
+    <link rel="icon" type="image/png" href="icon.png">
+</html>
