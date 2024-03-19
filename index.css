@@ -1,11 +1,11 @@
-@font-face { font-family: Willkids; src: url('Willkids.ttf'); } 
+@font-face { font-family: Willkids; src: url(Willkids.ttf); } 
 
 html {
     overflow: hidden; 
-    cursor: url("cursor.png"), none;
+    cursor: url(cursor.png), none;
     width: 100%;
     height: 100%;
-    background: url("./kittybg.jpg");
+    background: url(kittybg.jpg);
     background-repeat: repeat;
     animation: animatedBackground 2s linear infinite;
 }
@@ -88,7 +88,7 @@ p3 {
 }
 
 #button {
-    cursor: url("cursorclicker.png"), none;
+    cursor: url(cursorclicker.png), none;
     font-size: 23;
     font-family: Willkids;
     color: #ffffff;
